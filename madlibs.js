@@ -43,10 +43,10 @@ var madlibs =
 	
 	"roots":
 	[
-		"taproot", "entertwined roots", "roots", "new growth", "deep roots", "pursuant to"
+		"taproot", "entertwined roots", "roots", "new growth", "deep roots", 
 	],
 	"plantExperience":
 	[
-		"#roots# #roots# #roots# and #roots#", "#plant#", "#about# their job"
+		"#roots# #roots# #roots# and #roots#", "#plant#"
 		]
 }
