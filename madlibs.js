@@ -36,10 +36,7 @@ var madlibs =
 	"poetryLine":
 	[
 		"Planty plant #plant#",
-		"#clearing.capitalize# your #ineffableAspect# of #unwantedThoughts#, #ritualCommand#.",
-		"With #adjective.a# #bodyPart#, #ritualCommand#.",
-		"With #positiveAttribute#, #ritualCommand#.",
-		"With the #positiveAttribute# of #person.a#, #ritualCommand#."
+		"#roots# your #plant# of #plantExperience#"
 	],
 	"plant":
 	[
