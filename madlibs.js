@@ -57,5 +57,4 @@ var madlibs =
 	[
 		"#roots# #roots# #roots# and #roots#", "#plant#", "#about# their job"
 		]
-
 }
