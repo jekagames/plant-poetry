@@ -1,0 +1,46 @@
+body
+{
+	background-image: url("assets/flora.png");
+	background-size: 130%;
+	background-attachment: fixed;
+	font-family: 'Arial', cursive;
+	font-size: 28px;
+	color: #303b22;
+	margin-top: 100px;
+	margin-left: 200px;
+
+}
+ul {
+list-style-type: none;
+}
+
+
+#drawing
+{
+	background-repeat: no-repeat;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	left: 0px;
+	opacity: 0.5;
+}
+
+#container
+{
+	position: absolute;
+	left: 100px;
+	top: 50px;
+	width: 60%;
+}
+
+#title
+{
+	font-size: 125px;
+	margin-top: 33px;
+}
+
+#subtitle
+{
+    font-size: 60px;
+    margin-left: 411px;
+}
