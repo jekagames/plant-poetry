@@ -35,31 +35,27 @@ var madlibs =
 
 	"poetryLine":
 	[
-		"#ritualCommand.capitalize#.",
+		"Planty plant #plant#",
 		"#clearing.capitalize# your #ineffableAspect# of #unwantedThoughts#, #ritualCommand#.",
 		"With #adjective.a# #bodyPart#, #ritualCommand#.",
 		"With #positiveAttribute#, #ritualCommand#.",
 		"With the #positiveAttribute# of #person.a#, #ritualCommand#."
 	],
-	"ritualCommand":
+	"plant":
 	[
-		"#speakTo# your partner #aboutSomething#",
-		"#adverb# #touch# your partner's #bodyPart#",
-		"gaze #adverb# into your partner's #ineffableAspect#",
-		"say \"#greetingPhrase#\" to your partner",
-		"#touch# your partner's #bodyPart# with your #bodyPart#",
-		"#gesture# towards your partner",
-		"cheek-kiss your partner #kissNumber# times, starting with the #direction# cheek",
-		"anoint yourself with #anointingObject.a#",
-		"bless the #currentLocation# you are in with #blessing.a#"
+		"Clamatis and #roots#",
+		"#roots# #poetryLine#",
+		"Yikes this is a test #roots#",
+	
 	],
 	
-	"about":
+	"roots":
 	[
-		"about", "concerning", "in relation to", "on the subject of", "on the topic of", "pursuant to", "regarding", "with regards to"
+		"taproot", "entertwined roots", "roots", "new growth", "deep roots", "pursuant to"
 	],
-	"aboutSomething":
+	"plantExperience":
 	[
-		#about# the weather", "#about# their day", "#about# their friends and family", "#about# their job",  "#about# their #wellBeing#", "#about# themself", "#about# your mutual acquaintance, who, by the way, says hi", "#about# yourself", "as \"#regalTitle#\"", "in a silly voice", "in your non-native language", "using only gestures and onomatopoeia", "with your hands"
+		"#roots# #roots# #roots# and #roots#", "#plant#", "#about# their job"
+		]
 
 }
