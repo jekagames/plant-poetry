@@ -29,7 +29,7 @@ var madlibs =
 	"poetryLine":
 	[
 		"Planty plant #plant#",
-		"#roots# your #plant# of #plantExperience#"
+		"#roots# your #plant# of #plantExperience#",
 		"Planty plant #plant# #roots#",
 		"#roots# your #plant# of #plant# #roots#"
 	],
