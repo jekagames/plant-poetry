@@ -2,7 +2,7 @@ var madlibs =
 {
 	"poems":
 	[
-		"#[currentLocation:#locationAdj# #location#]poetryLines#"
+		"#poetryLines#"
 	],
 	"poetryLines":
 	[
