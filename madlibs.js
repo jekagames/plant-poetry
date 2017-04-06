@@ -36,9 +36,9 @@ var madlibs =
 		"#indigenousPlants#\, #indigenousPlants#\, #indigenousPlants#\, #indigenousPlants#",
 		"#latinIndigenous#\, #latinIndigenous#\, #latinIndigenous#\, #latinIndigenous#",
 		"You have named us to contain yourselves - #latinIndigenous#\, #indigenousPlants#\,#indigenousPlants",
-		"You #humanVerbs#\, actions #humanAdjectives#\, yet still we #plantVerbs#\, #plantAdjectives#"
-		"In our #coreWords.s#\, in our #flowerWords.s#, we #plantVerbs#"
-		"#rootWords.s#. #rootWords.s#"
+		"You #humanVerbs#\, actions #humanAdjectives#\, yet still we #plantVerbs#\, #plantAdjectives#",
+		"In our #coreWords.s#\, in our #flowerWords.s#, we #plantVerbs#",
+		"#rootWords.s#. #rootWords.s#",
 		"You think you are us. Your flag, flying #nationSymbols#\, #nationSymbols#\, #nationSymbols#\, #nationSymbols#."
 	],
 	
