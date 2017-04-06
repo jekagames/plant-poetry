@@ -28,8 +28,8 @@ var madlibs =
 
 	"poetryLine":
 	[
-		"Planty plant #plant#",
-		"#roots# your #plant# of #plantExperience#",
+		"#indigenousPlants#, #indigenousPlants#, #indigenousPlants#, #indigenousPlants#, #indigenousPlants#",
+		"#latinIndigenous#, "#latinIndigenous#, #latinIndigenous#, "#latinIndigenous#, #latinIndigenous#",
 		"Planty plant #plant# #roots#",
 		"#roots# your #plant# of #plant# #roots#"
 	],
@@ -37,16 +37,24 @@ var madlibs =
 	[
 		"Clamatis and #roots#",
 		"#roots# #poetryLine#",
-		"Yikes this is a test #roots#",
+		"Yikes this is a test #roots#"
 	
 	],
 	
 	"roots":
 	[
-		"taproot", "entertwined roots", "roots", "new growth", "deep roots", 
+		"taproot", "entertwined roots", "roots", "new growth", "deep roots" 
 	],
-	"plantExperience":
+	"nationSymbols":
 	[
-		"#roots# #roots# #roots# and #roots#", "#plant#"
+		"the shamrock", "the lancaster rose", "the thistle", "the fleur-de-lys"
+	],
+	"indigenousPlants":
+	[
+		"milkweed", "bergamot", "swamp verbana", "creeping dogwood", "columbine", "sweetgrass", "yarrow", "pearly everlasting", "wild ginger", "snakeroot", "broad-leaved asarabacca", "crowberry", "wild strawberry", "teaberry", "checkerberry", "wintergreen", "boxberry", "Greenland rhododendron", "wild lowbush blueberry", "lingonberry", "anise hyssop", "chive", "grey alder", "mountain alder", "Howell\'s pussytoes \(the Canadian variety\)", "Canadian milkvetch", "grey birch", "Giesecke\'s bellflower", "harlequin corydalis", "fringed sedge", "shallow sedge", "fox-sedge", "hornbeam", "ironwood", "blue-beech", "musclewood", "bittersweet", "fireweed", "willowherb", "green osier", "pagoda dogwood", "tufted hairgrass", "tussock grass", "trick-trefoil", "tickclover", "parasol whitetop", "white aster", "boneset", "grass-leaved goldenrod", ""
 		]
+			"latinIndigenous":
+	[
+		"achillea millefolium", "agastache foeniculum", "allium schoenoprasum", "alnus incana rugosa", "alnus viridis crispa", "anaphalis margaritacea", "antennaria howellii canadensis", "asclepias incarnata", "astragalus canadensis", "betula populifolia", "campanula gieseckeana", "capnoides sempervirens", "carex crinita", "carex lurida", "carex vulpinoidea", "carpinus caroliniana", "celastrus scandens", "chamerion angustifolium", "cornus alternifolia", "deschampsia cespitosa", "desmodium canadense", "doellingeria umbellata", "eupatorium perfoliatum", "euthamia graminifolia", ""
+	],
 }
