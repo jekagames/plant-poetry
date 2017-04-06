@@ -35,20 +35,20 @@ var madlibs =
 	[
 		"#indigenousPlants#\, #indigenousPlants#\, #indigenousPlants#\, #indigenousPlants#",
 		"#latinIndigenous#\, #latinIndigenous#\, #latinIndigenous#\, #latinIndigenous#",
-		"You have named us to contain yourselves - #latinIndigenous#\, #indigenousPlants#\,#indigenousPlants",
-		"You #humanVerbs# and #humanVerbs\, #humanAdjectives#\, yet still we #plantVerbs#\, #plantAdjectives#",
+		"You have named us to contain yourselves - #latinIndigenous#\, #indigenousPlants#\,#indigenousPlants#\.",
+		"You #humanVerbs# and #humanVerbs\, #humanAdjectives#\, yet still we #plantVerbs#\, #plantAdjectives#\.",
 		"In our #coreWords.s#\, in our #flowerWords.s#\, we #plantVerbs#",
-		"#rootWords.s#. #rootWords.s#",
-		"You think you are us. Your flag, flying #nationSymbols#\, #nationSymbols#\, #nationSymbols#\, #nationSymbols#."
+		"#rootWords.s#. #rootWords.s#\.",
+		"You think you are us. Your flag, flying #nationSymbols#\, #nationSymbols#\, #nationSymbols#\, #nationSymbols#\."
 	],
 	
-	"phraseSnippets":
-	[
-		"xxxxxxxxxxx",
-		"xxxxxxxxxxx",
-		"xxxxxxxxxxx"
+	// "phraseSnippets":
+	// [
+	// 	"xxxxxxxxxxx",
+	// 	"xxxxxxxxxxx",
+	// 	"xxxxxxxxxxx"
 	
-	],
+	// ],
 
 		"plantVerbs":
 	[
