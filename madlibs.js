@@ -36,19 +36,20 @@ var madlibs =
 		"#indigenousPlants#\, #indigenousPlants#\, #indigenousPlants#\, #indigenousPlants#",
 		"#latinIndigenous#\, #latinIndigenous#\, #latinIndigenous#\, #latinIndigenous#",
 		"You have named us to contain yourselves - #latinIndigenous#\, #indigenousPlants#\,#indigenousPlants#\.",
-		"You #humanVerbs# and #humanVerbs\, #humanAdjectives#\, yet still we #plantVerbs#\, #plantAdjectives#\.",
-		"In our #coreWords.s#\, in our #flowerWords.s#\, we #plantVerbs#",
+		"You #humanVerbs# and #humanVerbs#\, #humanAdjectives#\, yet still we #plantVerbs#\, #plantAdjectives#\.",
+		"In our #coreWords.s#\, in our #flowerWords.s#\, we #plantVerbs# and #plantVerbs",
 		"#rootWords.s#. #rootWords.s#\.",
+			"#rootWords.s#\. #stemWords.s#\. #flowerWords.s#\. #leafWords.s#\.",
 		"You think you are us. Your flag, flying #nationSymbols#\, #nationSymbols#\, #nationSymbols#\, #nationSymbols#\."
 	],
 	
-	// "phraseSnippets":
-	// [
-	// 	"xxxxxxxxxxx",
-	// 	"xxxxxxxxxxx",
-	// 	"xxxxxxxxxxx"
+	"phraseSnippets":
+	[
+		"xxxxxxxxxxx",
+		"xxxxxxxxxxx",
+		"xxxxxxxxxxx"
 	
-	// ],
+	],
 
 		"plantVerbs":
 	[
@@ -83,7 +84,7 @@ var madlibs =
 
 		"leafWords":
 	[
-		"leaf", "lamina", "petiole", "veins" 
+		"leaf", "lamina", "petiole", "vein" 
 	
 	],
 	"nationSymbols":
