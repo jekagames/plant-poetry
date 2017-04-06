@@ -29,9 +29,7 @@ var madlibs =
 	"poetryLine":
 	[
 		"#indigenousPlants#, #indigenousPlants#, #indigenousPlants#, #indigenousPlants#, #indigenousPlants#",
-		"#latinIndigenous#, "#latinIndigenous#, #latinIndigenous#, "#latinIndigenous#, #latinIndigenous#",
-		"Planty plant #plant# #roots#",
-		"#roots# your #plant# of #plant# #roots#"
+		"#latinIndigenous#, "#latinIndigenous#, #latinIndigenous#, "#latinIndigenous#, #latinIndigenous#"
 	],
 	"plant":
 	[
