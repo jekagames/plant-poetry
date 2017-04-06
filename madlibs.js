@@ -52,7 +52,8 @@ var madlibs =
 
 		"plantVerbs":
 	[
-		"rustle", "entangle", "grow", "wither", "creep", "anchor" 
+		"rustle", "entangle", "grow", "wither", "creep", "anchor"
+	],
 
 		"plantAdjectives":
 	[
