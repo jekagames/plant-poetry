@@ -39,15 +39,15 @@ var madlibs =
 		"You #humanVerbs# and #humanVerbs#\, #humanAdjectives#\, yet still we #plantVerbs#\, #plantAdjectives#\.",
 		"In our #coreWords.s#\, in our #flowerWords.s#\, we #plantVerbs# and #plantVerbs",
 		"#rootWords.s#. #rootWords.s#\.",
-			"#rootWords.s#\. #stemWords.s#\. #flowerWords.s#\. #leafWords.s#\.",
+		"#rootWords.s#\. #stemWords.s#\. #flowerWords.s#\. #leafWords.s#\.",
 		"You think you are us. Your flag, flying #nationSymbols#\, #nationSymbols#\, #nationSymbols#\, #nationSymbols#\."
+		"Ah\, #phraseSnippets# and #phraseSnippets#\."
 	],
 	
 	"phraseSnippets":
 	[
-		"xxxxxxxxxxx",
-		"xxxxxxxxxxx",
-		"xxxxxxxxxxx"
+		"Our #plantAdjectives# #stemWords#",
+		"the #plantAdjectives# #plantLikes# #plantVerbs to us"
 	
 	],
 
@@ -58,7 +58,13 @@ var madlibs =
 
 		"plantAdjectives":
 	[
-		"green", "growing", "creeping", "bending", "flexible", "propagating", "anchored" 
+		"green", "growing", "creeping", "bending", "flexible", "propagating", "anchored", "upturned", "dappled" 
+	
+	],
+
+		"plantLikes":
+	[
+		"sunlight", "cool rain", "water", "loam", "earth", "moss", "peat", "nutrients", "moisture", "susurrus" 
 	
 	],
 
@@ -108,7 +114,7 @@ var madlibs =
 
 	"humanAdjectives":
 	[
-		"heavy-footed", "sweaty", "voracious", "eager", "curious", "common" 
+		"heavy-footed", "sweaty", "voracious", "eager", "curious", "common", "uncaring", "thoughtless", "meandering", "trampling", "hungry" 
 	
 	],
 }
