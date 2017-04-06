@@ -35,7 +35,11 @@ var madlibs =
 	[
 		"#indigenousPlants#\, #indigenousPlants#\, #indigenousPlants#\, #indigenousPlants#",
 		"#latinIndigenous#\, #latinIndigenous#\, #latinIndigenous#\, #latinIndigenous#",
-		"You have named us to contain yourselves - #latinIndigenous#\, #indigenousPlants#\,#indigenousPlants"
+		"You have named us to contain yourselves - #latinIndigenous#\, #indigenousPlants#\,#indigenousPlants",
+		"You #humanVerbs#\, actions #humanAdjectives#\, yet still we #plantVerbs#\, #plantAdjectives#"
+		"In our #coreWords.s#\, in our #flowerWords.s#, we #plantVerbs#"
+		"#rootWords.s#. #rootWords.s#"
+		"You think you are us. Your flag, flying #nationSymbols#\, #nationSymbols#\, #nationSymbols#\, #nationSymbols#."
 	],
 	
 	"phraseSnippets":
@@ -92,5 +96,17 @@ var madlibs =
 	"latinIndigenous":
 	[
 		"achillea millefolium", "agastache foeniculum", "allium schoenoprasum", "alnus incana rugosa", "alnus viridis crispa", "anaphalis margaritacea", "antennaria howellii canadensis", "asclepias incarnata", "astragalus canadensis", "betula populifolia", "campanula gieseckeana", "capnoides sempervirens", "carex crinita", "carex lurida", "carex vulpinoidea", "carpinus caroliniana", "celastrus scandens", "chamerion angustifolium", "cornus alternifolia", "deschampsia cespitosa", "desmodium canadense", "doellingeria umbellata", "eupatorium perfoliatum", "euthamia graminifolia", "eutrochium maculatum", "festuca ovina", "geum rivale", "glecoma hederacea", "helenium autumnale", "heliopsis helianthoides", "heracleum maximum", "houstonia caerulea", "ilex verticillata", "iris versicolor", "leymus mollis", "lysimachia nummularia", "prunella vulgaris", "rudbeckia hirta", "sambucus racemosa", "scirpus cyperinus", "sedum acre", "sedum album", "sedum ellacombianum", "sedum floriferum", "sedum glaucophyllum", "silene acaulis", "silene suecica", "solidago nemoralis", "spartina pectinata", "spiraea latifolia", "spiraea tomentosa", "symphyotrichum cordifolium", "symphyotrichum novae-angliae", "Symphyotrichum puniceum", "thalictrum pubescens", "thymus serpyllum", "verbena hastata", "viola canadensis", "zizia aurea"
+	],
+
+	"humanVerbs":
+	[
+		"rip", "tear", "uproot", "claim", "take", "name", "consume" 
+	
+	],
+
+	"humanAdjectives":
+	[
+		"heavy-footed", "sweaty", "voracious", "eager", "curious", "common" 
+	
 	],
 }
