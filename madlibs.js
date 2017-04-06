@@ -40,7 +40,7 @@ var madlibs =
 		"In our #coreWords.s#\, in our #flowerWords.s#\, we #plantVerbs# and #plantVerbs",
 		"#rootWords.s#. #rootWords.s#\.",
 		"#rootWords.s#\. #stemWords.s#\. #flowerWords.s#\. #leafWords.s#\.",
-		"You think you are us. Your flag, flying #nationSymbols#\, #nationSymbols#\, #nationSymbols#\, #nationSymbols#\."
+		"You think you are us. Your flag, flying #nationSymbols#\, #nationSymbols#\, #nationSymbols#\, #nationSymbols#\.",
 		"Ah\, #phraseSnippets# and #phraseSnippets#\."
 	],
 	
