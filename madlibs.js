@@ -33,8 +33,8 @@ var madlibs =
 
 	"poetryLine":
 	[
-		"#indigenousPlants#\, #indigenousPlants#\, #indigenousPlants#\, #indigenousPlants#\",
-		"#latinIndigenous#\, #latinIndigenous#\, #latinIndigenous#\, #latinIndigenous#\"
+		"#indigenousPlants#\, #indigenousPlants#\, #indigenousPlants#\, #indigenousPlants#",
+		"#latinIndigenous#\, #latinIndigenous#\, #latinIndigenous#\, #latinIndigenous#",
 		"You have named us to contain yourselves - #latinIndigenous#\, #indigenousPlants#\,#indigenousPlants"
 	],
 	
