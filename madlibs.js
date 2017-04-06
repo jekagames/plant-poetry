@@ -49,9 +49,9 @@ var madlibs =
 	],
 	"indigenousPlants":
 	[
-		"milkweed", "bergamot", "swamp verbana", "creeping dogwood", "columbine", "sweetgrass", "yarrow", "pearly everlasting", "wild ginger", "snakeroot", "broad-leaved asarabacca", "crowberry", "wild strawberry", "teaberry", "checkerberry", "wintergreen", "boxberry", "Greenland rhododendron", "wild lowbush blueberry", "lingonberry", "anise hyssop", "chive", "grey alder", "mountain alder", "Howell\'s pussytoes \(the Canadian variety\)", "Canadian milkvetch", "grey birch", "Giesecke\'s bellflower", "harlequin corydalis", "fringed sedge", "shallow sedge", "fox-sedge", "hornbeam", "ironwood", "blue-beech", "musclewood", "bittersweet", "fireweed", "willowherb", "green osier", "pagoda dogwood", "tufted hairgrass", "tussock grass", "trick-trefoil", "tickclover", "parasol whitetop", "white aster", "boneset", "grass-leaved goldenrod", ""
-		],
-			"latinIndigenous":
+		"milkweed", "bergamot", "swamp verbana", "creeping dogwood", "columbine", "sweetgrass", "yarrow", "pearly everlasting", "wild ginger", "snakeroot", "broad-leaved asarabacca", "crowberry", "wild strawberry", "teaberry", "checkerberry", "wintergreen", "boxberry", "Greenland rhododendron", "wild lowbush blueberry", "lingonberry", "anise hyssop", "chive", "grey alder", "mountain alder", "Howell\'s pussytoes \(the Canadian variety\)", "Canadian milkvetch", "grey birch", "Giesecke\'s bellflower", "harlequin corydalis", "fringed sedge", "shallow sedge", "fox-sedge", "hornbeam", "ironwood", "blue-beech", "musclewood", "bittersweet", "fireweed", "willowherb", "green osier", "pagoda dogwood", "tufted hairgrass", "tussock grass", "trick-trefoil", "tickclover", "parasol whitetop", "white aster", "boneset", "grass-leaved goldenrod"
+	],
+	"latinIndigenous":
 	[
 		"achillea millefolium", "agastache foeniculum", "allium schoenoprasum", "alnus incana rugosa", "alnus viridis crispa", "anaphalis margaritacea", "antennaria howellii canadensis", "asclepias incarnata", "astragalus canadensis", "betula populifolia", "campanula gieseckeana", "capnoides sempervirens", "carex crinita", "carex lurida", "carex vulpinoidea", "carpinus caroliniana", "celastrus scandens", "chamerion angustifolium", "cornus alternifolia", "deschampsia cespitosa", "desmodium canadense", "doellingeria umbellata", "eupatorium perfoliatum", "euthamia graminifolia", ""
 	],
