@@ -46,7 +46,7 @@ var madlibs =
 	
 	"phraseSnippets":
 	[
-		"Our #plantAdjectives# #stemWords#",
+		"our #plantAdjectives# #stemWords#",
 		"the #plantAdjectives# #plantLikes# #plantVerbs# to us"
 	
 	],
