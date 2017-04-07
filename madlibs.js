@@ -115,7 +115,7 @@ var madlibs =
 
 	"humanAdjectives":
 	[
-		"heavy-footed", "sweaty", "voracious", "eager", "curious", "common", "uncaring", "thoughtless", "meandering", "trampling", "hungry" 
+		"heavy-footed", "sweaty", "voracious", "eager", "curious", "common", "uncaring", "thoughtless", "meandering", "trampling", "hungry", "boundless", "excessive", "" 
 	
 	],
 }
