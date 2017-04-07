@@ -48,17 +48,18 @@ var madlibs =
 	[
 		"our #plantAdjectives# #stemWords#",
 		"the #plantAdjectives# #plantLikes# #plantVerbs# to us"
+
 	
 	],
 
 		"plantVerbs":
 	[
-		"rustle", "entangle", "grow", "wither", "creep", "anchor"
+		"rustle", "entangle", "grow", "wither", "creep", "anchor", "propagate", "bloom", "blossom", "climb", "germinate", "mimic", "fruit", "ripen", "shrivel", "sprout", "vegetate", "yield", "photosynthesize", "bear fruit", "take root", "generate", "fix carbon dioxide"
 	],
 
 		"plantAdjectives":
 	[
-		"green", "growing", "creeping", "bending", "flexible", "propagating", "anchored", "upturned", "dappled" 
+		"green", "growing", "creeping", "bending", "flexible", "propagating", "anchored", "upturned", "dappled", "wild" 
 	
 	],
 
@@ -108,7 +109,7 @@ var madlibs =
 
 	"humanVerbs":
 	[
-		"rip", "tear", "uproot", "claim", "take", "name", "consume" 
+		"rip", "tear", "uproot", "claim", "take", "name", "consume", "\"cultivate\"", "modify", "rend", "chew", "grind", "mill", "trample", "alter", "cut down", "mow" 
 	
 	],
 
