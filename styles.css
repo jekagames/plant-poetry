@@ -2,11 +2,11 @@
 body
 {
 	background-image: url("assets/flora.png");
-	background-size: 130%;
+	background-size: 150%;
 	background-attachment: fixed;
 	font-family: 'Alegreya Sans SC', sans-serif;
 	font-size: 22px;
-	color: #3d7100;
+	color: #5c1b0e;
 	margin-top: 300px;
 	margin-left: 300px;
 	line-height: 1.6;
@@ -20,7 +20,7 @@ list-style-type: none;
 
 #drawing
 {
-	background-repeat: repeat-y;
+	background-repeat: no-repeat;
 	position: fixed;
 	width: 100%;
 	height: 100%;
