@@ -41,25 +41,45 @@ var madlibs =
 		"#rootWords.s#. #rootWords.s#\.",
 		"#rootWords.s#\. #stemWords.s#\. #flowerWords.s#\. #leafWords.s#\.",
 		"You think you are us. Your flag, flying #nationSymbols#\, #nationSymbols#\, #nationSymbols#\, #nationSymbols#\.",
-		"Ah\, #phraseSnippets# and #phraseSnippets#\."
+		"Ah\, #phraseSnippets# and #phraseSnippets#\.",
+		"#phraseSnippets#\, #phraseSnippets#\.",
+		"we surround you\, #plantCrafts#\, #plantCrafts#\, or #plantCrafts#\,",
+		"we live #artificialLocations#\s\,"
 	],
 	
 	"phraseSnippets":
 	[
 		"our #plantAdjectives# #stemWords#",
-		"the #plantAdjectives# #plantLikes# #plantVerbs# to us"
-
+		"the #plantAdjectives# #plantLikes# #plantVerbs#\s us",
+		"we cannot speak",
+		"we exist at your whim",
+		"we #plantVerbs# through cracks",
+		"we exist on a different timescale",
+		"we are #plantAdjectives",
+		"we are alive",
+		"when you are gone",
+		"we will continue\, we will #plantVerbs# without you",
+		"You have named us to contain yourselves",
+		"you #humanVerbs# our #flowerWords#\s to have us #plantCrafts#",
+		"Our aesthetics\, our #plantAdjectives# #plantParts#"
 	
 	],
 
+		"plantParts":
+	[
+		"#rootWords#", "#flowerWords#", "#leafWords#", "#coreWords"
+	
+	],
+
+
 		"plantVerbs":
 	[
-		"rustle", "entangle", "grow", "wither", "creep", "anchor", "propagate", "bloom", "blossom", "climb", "germinate", "mimic", "fruit", "ripen", "shrivel", "sprout", "vegetate", "yield", "photosynthesize", "bear fruit", "take root", "generate", "fix carbon dioxide"
+		"rustle", "persist", "entangle", "grow", "wither", "creep", "anchor", "propagate", "bloom", "blossom", "climb", "germinate", "mimic", "fruit", "ripen", "shrivel", "sprout", "vegetate", "yield", "photosynthesize", "bear fruit", "root", "generate", "fix carbon dioxide"
 	],
 
 		"plantAdjectives":
 	[
-		"green", "growing", "creeping", "bending", "flexible", "propagating", "anchored", "upturned", "dappled", "wild" 
+		"alive", "green", "growing", "creeping", "bending", "flexible", "propagating", "anchored", "upturned", "wild", "voiceless", "fertile", "colourful", "many-hued", "upturned", "downturned", "slow" 
 	
 	],
 
@@ -109,13 +129,26 @@ var madlibs =
 
 	"humanVerbs":
 	[
-		"rip", "tear", "uproot", "claim", "take", "name", "consume", "\"cultivate\"", "modify", "rend", "chew", "grind", "mill", "trample", "alter", "cut down", "mow" 
+		"rip", "tear", "uproot", "claim", "take", "name", "consume", "\"cultivate\"", "modify", "rend", "chew", "grind", "mill", "trample", "alter", "cut down", "mow", "cut", "trim", "fast" 
 	
 	],
 
 	"humanAdjectives":
 	[
-		"heavy-footed", "sweaty", "voracious", "eager", "curious", "common", "uncaring", "thoughtless", "meandering", "trampling", "hungry", "boundless", "excessive", "" 
+		"heavy-footed", "sweaty", "voracious", "eager", "curious", "common", "uncaring", "thoughtless", "meandering", "trampling", "hungry", "boundless", "bottomless" 
+	
+	],
+
+		"artificialLocations":
+	[
+		"on your table", "in your flowerbed", "in your garden", "in your pot", "in your vase", "on your countertop" 
+	
+	],
+
+			"plantCrafts":
+	[
+		"pressed in a book", "dried and flattened", "woven in garlands", "boiled for tea", "crushed for spice", "mortar-and-pestled", "made into a salve", "eaten\, raw or cooked", "gathered in a bouquet" 
 	
 	],
 }
+
