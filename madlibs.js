@@ -48,8 +48,8 @@ var madlibs =
 		"Your flag flies #nationSymbols#\, #nationSymbols#\, #nationSymbols#\, #nationSymbols#\.",
 		"Ah\, #phraseSnippets# and #phraseSnippets#\.",
 		"#phraseSnippets.capitalize#\, #phraseSnippets#\.",
-		"We surround you\, #plantCrafts#\, #plantCrafts#\, #plantCrafts#\,",
-		"We live #artificialLocations#\s\,",
+		"We surround you\, #plantCrafts#\, #plantCrafts#\, #plantCrafts#\.",
+		"We live #artificialLocations#\s\.",
 		"#phraseSnippets.capitalize#\, but #phraseSnippets#\.",
 	],
 	
