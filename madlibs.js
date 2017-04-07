@@ -11,11 +11,14 @@ var madlibs =
 		<li>#poetryLine#</li>\
 		<li>#poetryLine#</li>\
 		<li>#poetryLine#</li>\
-		<br>\
-		<li>#poetryLine#</li>\
-		<li>#poetryLine#</li>\
 		<li>#poetryLine#</li>\
 		<br>\
+		<li>#poetryLine#</li>\
+		<li>#poetryLine#</li>\
+		<li>#poetryLine#</li>\
+		<li>#poetryLine#</li>\
+		<br>\
+		<li>#poetryLine#</li>\
 		<li>#poetryLine#</li>\
 		</ul>"
 	],
