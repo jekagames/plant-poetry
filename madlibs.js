@@ -40,11 +40,12 @@ var madlibs =
 		"In our #coreWords.s#\, in our #flowerWords.s#\, we #plantVerbs# and #plantVerbs",
 		"#rootWords.s#. #rootWords.s#\.",
 		"#rootWords.s#\. #stemWords.s#\. #flowerWords.s#\. #leafWords.s#\.",
-		"You think you are us. Your flag, flying #nationSymbols#\, #nationSymbols#\, #nationSymbols#\, #nationSymbols#\.",
+		"Your flag flies #nationSymbols#\, #nationSymbols#\, #nationSymbols#\, #nationSymbols#\.",
 		"Ah\, #phraseSnippets# and #phraseSnippets#\.",
-		"#phraseSnippets#\, #phraseSnippets#\.",
-		"we surround you\, #plantCrafts#\, #plantCrafts#\, or #plantCrafts#\,",
-		"we live #artificialLocations#\s\,"
+		"#phraseSnippets.capitalize#\, #phraseSnippets#\.",
+		"We surround you\, #plantCrafts#\, #plantCrafts#\, or #plantCrafts#\,",
+		"We live #artificialLocations#\s\,",
+		"#phraseSnippets.capitalize#\, but #phraseSnippets#\.",
 	],
 	
 	"phraseSnippets":
@@ -59,9 +60,11 @@ var madlibs =
 		"we are alive",
 		"when you are gone",
 		"we will continue\, we will #plantVerbs# without you",
-		"You have named us to contain yourselves",
+		"you have named us to contain yourselves",
 		"you #humanVerbs# our #flowerWords#\s to have us #plantCrafts#",
-		"Our aesthetics\, our #plantAdjectives# #plantParts#"
+		"our aesthetics\, our #plantAdjectives# #plantParts#",
+		"there are consequences",
+		"you think you are us"
 	
 	],
 
@@ -129,7 +132,7 @@ var madlibs =
 
 	"humanVerbs":
 	[
-		"rip", "tear", "uproot", "claim", "take", "name", "consume", "\"cultivate\"", "modify", "rend", "chew", "grind", "mill", "trample", "alter", "cut down", "mow", "cut", "trim", "fast" 
+		"rip", "tear", "uproot", "claim", "take", "name", "consume", "\"cultivate\"", "modify", "rend", "chew", "grind", "mill", "trample", "alter", "cut down", "mow", "cut", "trim" 
 	
 	],
 
