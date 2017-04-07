@@ -70,7 +70,8 @@ var madlibs =
 		"our aesthetics\, our #plantAdjectives# #plantParts#",
 		"there are consequences",
 		"you think you are us",
-		"your definitions cannot contain us"
+		"your definitions cannot contain us",
+		"we sustain you",
 	
 	],
 
@@ -83,12 +84,12 @@ var madlibs =
 
 		"plantVerbs":
 	[
-		"rustle", "persist", "entangle", "grow", "wither", "creep", "anchor", "propagate", "bloom", "blossom", "climb", "germinate", "mimic", "fruit", "ripen", "shrivel", "sprout", "vegetate", "yield", "photosynthesize", "bear fruit", "root", "generate", "fix carbon dioxide"
+		"rustle", "persist", "entangle", "grow", "wither", "creep", "anchor", "propagate", "bloom", "blossom", "climb", "germinate", "mimic", "fruit", "ripen", "shrivel", "sprout", "vegetate", "yield", "photosynthesize", "bear fruit", "root", "generate", "fix carbon dioxide", "outgrow", "mutate", "merge"
 	],
 
 		"plantAdjectives":
 	[
-		"alive", "green", "growing", "creeping", "bending", "flexible", "propagating", "anchored", "upturned", "wild", "voiceless", "fertile", "colourful", "many-hued", "upturned", "downturned", "slow" 
+		"alive", "green", "growing", "creeping", "bending", "flexible", "propagating", "anchored", "upturned", "wild", "voiceless", "fertile", "colourful", "many-hued", "upturned", "downturned", "slow", "entwined", "entangled" 
 	
 	],
 
@@ -150,7 +151,7 @@ var madlibs =
 
 		"artificialLocations":
 	[
-		"on your table", "in your flowerbed", "in your garden", "in your pot", "in your vase", "on your countertop" 
+		"on your table", "in your flowerbed", "in your garden", "in your flowerpots and planters", "in your vase", "on your countertop" 
 	
 	],
 
