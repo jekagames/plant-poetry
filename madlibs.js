@@ -50,7 +50,7 @@ var madlibs =
 	
 	"phraseSnippets":
 	[
-		"our #plantAdjectives# #stemWords#",
+		"in our #plantAdjectives# #stemWords#",
 		"the #plantAdjectives# #plantLikes# #plantVerbs#\s us",
 		"we cannot speak",
 		"we exist at your whim",
@@ -64,7 +64,8 @@ var madlibs =
 		"you #humanVerbs# our #flowerWords#\s to have us #plantCrafts#",
 		"our aesthetics\, our #plantAdjectives# #plantParts#",
 		"there are consequences",
-		"you think you are us"
+		"you think you are us",
+		"your definitions cannot contain us"
 	
 	],
 
