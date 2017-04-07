@@ -1,9 +1,10 @@
+
 body
 {
 	background-image: url("assets/flora.png");
 	background-size: 130%;
 	background-attachment: fixed;
-	font-family: 'Arial', cursive;
+	font-family: 'Alegreya Sans SC', sans-serif;
 	font-size: 22px;
 	color: #3d7100;
 	margin-top: 300px;
@@ -11,6 +12,7 @@ body
 	line-height: 1.6;
 
 }
+
 ul {
 list-style-type: none;
 }
